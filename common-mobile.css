@@ -1,0 +1,27 @@
+@charset "utf-8";
+body{ margin:0 auto; padding:0px; font-size:12px;font-family: "Microsoft YaHei" ! important; text-align:center; min-width: 320px; max-width: 640px;}
+p,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,form,fieldset,legend,input,select,textarea,button,th,td,menu,article,pre,xmp,plaintext,listing{margin:0;padding:0;}
+pre,xmp,plaintext,listing{white-space:normal;}
+article,aside,dialog,figure,footer,header,hgroup,nav,section,select,time{display:block;}
+h1,h2,h3,h4,h5,h6,input,select,button,label{font-size:100%;font-weight:100;vertical-align:middle;}
+ul,dl,ol{list-style:none;}
+i,em{font-style: normal;}
+b{font-weight: normal;}
+img,fieldset,input[type="submit"]{border:none;}
+input{outline:none;background:transparent;vertical-align:top;}
+table{border-collapse:collapse;border-spacing:0;}
+button{cursor:pointer;border:none;}
+textarea{word-wrap:break-word;resize:none;}
+select::-ms-expand{display:none;}
+::-ms-check{display:none;}
+input, textarea, select{-webkit-appearance:none;border:none;outline:none;}
+input:-moz-placeholder{color:#C4C4C4;}
+::-webkit-input-placeholder{color:#C4C4C4;}
+html,body{-webkit-text-size-adjust:none;/*height:100%;*/}
+a,button,input{-webkit-touch-callout:none;outline:none;}
+a{text-decoration:none;-webkit-touch-callout:none; color: #666;}
+*{-webkit-tap-highlight-color:rgba(255,0,0,0);font-family: "Microsoft YaHei" ! important;}
+*{box-sizing:border-box;/*-webkit-user-select:none;-moz-user-select:none;-o-user-select:none;user-select:none;*/}
+body{ background:#F8F8F8;font-family: Helvetica,STHeiti STXihei, Microsoft JhengHei, Microsoft YaHei, Arial;}
+.table{ display: table;}
+.cell{ display: table-cell; vertical-align: middle;}
